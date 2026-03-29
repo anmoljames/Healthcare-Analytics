@@ -1,0 +1,9 @@
+department_id,department_name,dept_code,floor,head_doctor_id,annual_budget_inr
+D01,Cardiology,CARD-01,10,DR003,109885207
+D02,Orthopedics,ORTH-02,11,DR004,86713773
+D03,Pediatrics,PEDS-03,12,DR005,153827621
+D04,Neurology,NEUR-04,13,DR006,145737657
+D05,Emergency,EMER-05,14,DR007,139917677
+D06,Oncology,ONCO-06,15,DR008,117456926
+D07,General Medicine,GENM-07,16,DR009,107513338
+D08,Gynecology,GYNC-08,17,DR010,226395715

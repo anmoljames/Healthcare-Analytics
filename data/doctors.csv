@@ -1,0 +1,81 @@
+doctor_id,doctor_name,specialization,department_id,years_experience,consultation_fee_inr
+DR001,Dr. Aditya Das,Orthopedic Surgeon,D02,3,500
+DR002,Dr. Arjun Reddy,Orthopedic Surgeon,D02,2,1500
+DR003,Dr. Riya Das,Neurologist,D04,15,1200
+DR004,Dr. Rahul Mehta,Emergency Physician,D05,28,900
+DR005,Dr. Vikram Nair,Emergency Physician,D05,22,500
+DR006,Dr. Sanjay Rao,Orthopedic Surgeon,D02,23,900
+DR007,Dr. Priya Bose,Emergency Physician,D05,8,1200
+DR008,Dr. Riya Singh,Orthopedic Surgeon,D02,24,1500
+DR009,Dr. Amit Verma,Neurologist,D04,15,900
+DR010,Dr. Kavya Rao,Orthopedic Surgeon,D02,25,900
+DR011,Dr. Divya Mehta,Gynecologist,D08,24,900
+DR012,Dr. Rohit Iyer,Neurologist,D04,11,1500
+DR013,Dr. Neha Bose,Neurologist,D04,25,900
+DR014,Dr. Manish Verma,Neurologist,D04,15,500
+DR015,Dr. Sanjay Khan,Oncologist,D06,5,700
+DR016,Dr. Arjun Chopra,Oncologist,D06,26,2000
+DR017,Dr. Vikram Khan,Gynecologist,D08,9,700
+DR018,Dr. Aditya Das,Emergency Physician,D05,26,900
+DR019,Dr. Vikram Malhotra,Neurologist,D04,32,500
+DR020,Dr. Sneha Kapoor,Cardiologist,D01,11,2000
+DR021,Dr. Tanvi Iyer,General Physician,D07,25,1200
+DR022,Dr. Ishaan Khan,Gynecologist,D08,1,2000
+DR023,Dr. Riya Khan,Orthopedic Surgeon,D02,22,500
+DR024,Dr. Pooja Mehta,Emergency Physician,D05,30,500
+DR025,Dr. Ishaan Mehta,Emergency Physician,D05,7,2000
+DR026,Dr. Ishaan Shah,Emergency Physician,D05,13,700
+DR027,Dr. Neha Bhat,Oncologist,D06,1,1500
+DR028,Dr. Meera Sharma,Oncologist,D06,8,900
+DR029,Dr. Kavya Verma,Emergency Physician,D05,16,1500
+DR030,Dr. Amit Chopra,Orthopedic Surgeon,D02,5,1500
+DR031,Dr. Vikram Chopra,Pediatrician,D03,11,900
+DR032,Dr. Arjun Bhat,General Physician,D07,13,2000
+DR033,Dr. Sanjay Joshi,Emergency Physician,D05,29,1500
+DR034,Dr. Sneha Reddy,Gynecologist,D08,15,500
+DR035,Dr. Rahul Pillai,Oncologist,D06,15,1500
+DR036,Dr. Rahul Iyer,Neurologist,D04,4,700
+DR037,Dr. Priya Patil,Orthopedic Surgeon,D02,5,1500
+DR038,Dr. Rohit Chopra,Neurologist,D04,14,1500
+DR039,Dr. Aditya Pillai,Pediatrician,D03,31,700
+DR040,Dr. Pooja Nair,Gynecologist,D08,7,500
+DR041,Dr. Divya Das,General Physician,D07,27,1200
+DR042,Dr. Sneha Verma,Cardiologist,D01,26,2000
+DR043,Dr. Sneha Reddy,Oncologist,D06,13,700
+DR044,Dr. Vikram Das,Gynecologist,D08,12,900
+DR045,Dr. Kavya Iyer,Gynecologist,D08,29,1500
+DR046,Dr. Priya Bhat,Orthopedic Surgeon,D02,1,500
+DR047,Dr. Neha Das,Neurologist,D04,32,1200
+DR048,Dr. Sanjay Verma,Neurologist,D04,11,1200
+DR049,Dr. Sanjay Khan,Cardiologist,D01,30,900
+DR050,Dr. Riya Chopra,General Physician,D07,10,700
+DR051,Dr. Arjun Verma,Emergency Physician,D05,4,2000
+DR052,Dr. Priya Verma,Oncologist,D06,31,1500
+DR053,Dr. Priya Malhotra,Pediatrician,D03,6,700
+DR054,Dr. Tanvi Iyer,Orthopedic Surgeon,D02,16,1200
+DR055,Dr. Aditya Reddy,Orthopedic Surgeon,D02,3,1500
+DR056,Dr. Pooja Pillai,Orthopedic Surgeon,D02,21,900
+DR057,Dr. Manish Reddy,Neurologist,D04,17,1200
+DR058,Dr. Anjali Bose,Pediatrician,D03,21,500
+DR059,Dr. Karthik Shah,Cardiologist,D01,7,500
+DR060,Dr. Ishaan Khan,Neurologist,D04,9,900
+DR061,Dr. Kavya Joshi,Orthopedic Surgeon,D02,19,700
+DR062,Dr. Riya Singh,Gynecologist,D08,1,2000
+DR063,Dr. Sneha Kapoor,Emergency Physician,D05,17,500
+DR064,Dr. Riya Kapoor,Orthopedic Surgeon,D02,18,900
+DR065,Dr. Manish Nair,Neurologist,D04,17,1500
+DR066,Dr. Rohit Verma,Gynecologist,D08,6,2000
+DR067,Dr. Rohit Verma,General Physician,D07,1,900
+DR068,Dr. Rohit Mehta,Pediatrician,D03,29,1500
+DR069,Dr. Riya Sharma,General Physician,D07,8,500
+DR070,Dr. Riya Verma,Pediatrician,D03,24,1500
+DR071,Dr. Pooja Kapoor,Pediatrician,D03,3,900
+DR072,Dr. Priya Joshi,Oncologist,D06,14,2000
+DR073,Dr. Sneha Joshi,Neurologist,D04,27,1500
+DR074,Dr. Kavya Mehta,Pediatrician,D03,12,1200
+DR075,Dr. Neha Patil,Cardiologist,D01,27,2000
+DR076,Dr. Rohit Mehta,Neurologist,D04,7,1200
+DR077,Dr. Meera Reddy,Cardiologist,D01,13,1200
+DR078,Dr. Anjali Reddy,Oncologist,D06,15,500
+DR079,Dr. Sanjay Patil,Neurologist,D04,18,500
+DR080,Dr. Divya Malhotra,Emergency Physician,D05,26,2000
