@@ -2,6 +2,15 @@
 
 A hospital-operations analytics project built on **SQL + Power BI**. It models patients, doctors, departments, and 12,000 visit records across FY 2024-25, and answers operations questions: revenue mix, admission rates, length of stay, and discharge outcomes.
 
+## Dashboard preview
+
+<div align="center">
+  <img src="./Healthcare Dashboard Preview.png" alt="Healthcare Analytics dashboard preview" />
+</div>
+
+- Full KPI summary: [`Healthcare Dashboard.pdf`](./Healthcare%20Dashboard.pdf)
+- Interactive version: build the 4-page report in Power BI Desktop with [`powerbi/README.md`](./powerbi/README.md) (star schema + DAX), then Publish to web for a live link.
+
 ## Project layout
 ```
 data/              synthetic CSVs (patients, doctors, departments, visits)
