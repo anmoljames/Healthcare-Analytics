@@ -2,6 +2,15 @@
 
 A hospital-operations analytics project built on **SQL + Power BI**. It models patients, doctors, departments, and 12,000 visit records across FY 2024-25, and answers operations questions: revenue mix, admission rates, length of stay, and discharge outcomes.
 
+## Interactive dashboard (free, no Power BI license needed)
+
+```bash
+pip install -r requirements.txt
+streamlit run streamlit_app.py
+```
+
+Deploy free on Streamlit Cloud: login at [share.streamlit.io](https://share.streamlit.io) with GitHub → Create app → repo `Healthcare-Analytics`, file `streamlit_app.py` → Deploy. You get a `*.streamlit.app` live link.
+
 ## Dashboard preview
 
 <div align="center">

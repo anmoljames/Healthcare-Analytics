@@ -1,4 +1,3 @@
-csv
-random
-datetime
-pathlib
+pandas>=2.0
+plotly>=5.0
+streamlit>=1.38
